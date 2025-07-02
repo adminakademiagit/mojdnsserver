@@ -12,3 +12,4 @@ jenkins     IN  A       10.0.10.32
 www     IN  A       10.0.10.32
 @     IN  A       10.0.10.32
 docker    IN A    10.0.10.36
+nowy    IN  A   10.0.10.36
